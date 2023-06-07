@@ -7,3 +7,4 @@ Components to be included in Readme:
 4. Theme Selected.
 5. Link to the design.
 6. Description on the components and functionalities of your design.
+7. Your file name should be: <team-name>.md
